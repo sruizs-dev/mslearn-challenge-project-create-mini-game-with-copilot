@@ -30,3 +30,4 @@ match(option.lower()):
             print("Empate")
     case _:
         print("Opción no válida")
+print(f"La máquina eligió: {optionMachine}")
